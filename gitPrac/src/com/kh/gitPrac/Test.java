@@ -22,11 +22,15 @@ public class Test {
 
 		
 		System.out.println("나 브랜치 dev1이야");
+		
+		System.out.println("dev1인뎅 ㅎㅎ");
+
 
 
 		System.out.println("나 브랜치 dev2이야");
 
 		System.out.println("조장좋아!");
+
 	}
 
 }
