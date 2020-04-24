@@ -10,10 +10,8 @@ public class Test {
 
 		System.out.println("³­ Á¶¿ø!!!");
 		System.out.println("abcd");
-		
-		sdfg
-		
-		¤±¤¤¤·¤°
+		System.out.println("aaaa");
+		System.out.println("bbbb");
 		
 
 
