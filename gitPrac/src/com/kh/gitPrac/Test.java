@@ -31,7 +31,8 @@ public class Test {
 		
 
 		System.out.println("조장좋아!");
-
+		
+		System.out.println("안녕 지금은 5월 12일이야 ㅎㅎ");
 	}
 
 }
