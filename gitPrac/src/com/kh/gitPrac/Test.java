@@ -33,6 +33,9 @@ public class Test {
 		System.out.println("조장좋아!");
 		
 		System.out.println("안녕 지금은 5월 12일이야 ㅎㅎ");
+	
+		System.out.println("어엇 나는 지금 gitub연습중이야");
+	
 	}
 
 }
